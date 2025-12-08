@@ -4,7 +4,7 @@
   <img src="https://via.placeholder.com/1200x250/1a1a1a/ffffff?text=HELLO+WORLD+-+WELCOME+TO+MY+PROFILE" width="100%" />
 </p>
 
-<h1 align="center">👋 HI, I'M VICTOR!</h1>
+<h1 align="center">👋 OI, EU SOU CARLOS!</h1>
 
 <p align="center">
   <b>Frontend Developer • Web Engineer • Maker • Tech Enthusiast</b><br/>
@@ -72,13 +72,13 @@ Sistema completo de controle com autenticação.
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://linkedin.com/in/">
+  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/Email-444?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://seusite.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
