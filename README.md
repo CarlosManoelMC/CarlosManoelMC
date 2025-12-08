@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @CarlosManoelMC
-- 👀 I’m interested in  aprender cade vez mais e se tornar o  desenvolvedor profissional.
-- 🌱 I’m currently learning html, CSS e JS.
-- 💞️ I’m looking to collaborate on  desenvolvimentos de site .
+🖐️ Olá, eu sou Ítalo Jeferson
+
+🎓 Graduando em Análise e Desenvolvimento de Sistemas
+💻 Desenvolvedor focado em soluções web e mobile, com experiência em integração de sistemas, APIs e containers Docker
+
+🛠️ Linguagens e Ferramentas
+<div style="display: inline_block"><br> <img align="center" alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> <img align="center" alt="Kotlin" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"> <img align="center" alt="Android" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"> <img align="center" alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <img align="center" alt="JS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <img align="center" alt="MySQL" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> <img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img align="center" alt="GitHub" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> <img align="center" alt="Linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> <img align="center" alt="PHP" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> <img align="center" alt="Laravel" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"> <img align="center" alt="Docker" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> </div>
+
+📬 Entre em contato comigo
+<div style="display: inline_block"><br> <a href="https://instagram.com/italosixx" target="_blank"> <img align="center" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"> </a> <a href="https://www.linkedin.com/in/italo-jeferson/" target="_blank"> <img align="center" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> </a> <a href="mailto:italojefersondev@gmail.com" target="_blank"> <img align="center" height="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"> </a> </div>
 
 
-<!---
-CarlosManoelMC/CarlosManoelMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Snake animation](https://github.com/ItaloSixx/ItaloSixx/blob/output/github-contribution-grid-snake.svg)
