@@ -50,13 +50,7 @@
 
 ## ⭐ Projetos em destaque
 
-### 🔹 Kyv3D – Calculadora de Impressão 3D  
-Ferramenta completa para cálculos de custo real de impressão.  
-**Stack:** Next.js • Supabase • Docker
 
-### 🔹 KyvFrota – Sistema de Empréstimo de Veículos  
-Sistema completo de controle com autenticação.  
-**Stack:** Laravel • Vue.js • MySQL
 
 ---
 
