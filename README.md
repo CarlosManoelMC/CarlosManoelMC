@@ -1,64 +1,74 @@
-
 <!-- Banner topo -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x250/1a1a1a/ffffff?text=HELLO+WORLD+-+WELCOME+TO+MY+PROFILE" width="100%" />
+  <img src="https://via.placeholder.com/1200x250/1a1a1a/ffffff?text=CARLOS+MANOEL+-+DESENVOLVEDOR+MOBILE+E+WEB" width="100%" />
 </p>
 
-<h1 align="center">👋 OI, EU SOU CARLOS!</h1>
+<h1 align="center">👋 OI, EU SOU CARLOS MANOEL!</h1>
 
 <p align="center">
-  <b>Frontend Developer • Web Engineer • Maker • Tech Enthusiast</b><br/>
-  Criando sistemas, experimentando tecnologias e sempre aprendendo algo novo.
+  <b>Desenvolvedor Mobile • Web Developer • Estudante de ADS • Maker</b><br/>
+  Construindo sistemas, criando experiências e sempre explorando novas tecnologias.
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-- 🔧 Desenvolvedor focado em **Vue.js, Next.js, Laravel e Docker**
-- ☁️ Experiência com **VPS, DevOps e Deploys**
-- 🧪 Gosto de explorar **hacking, hardware, 3D printing e automação**
-- 🎮 Curto criar bots, jogos e sistemas experimentais
-- 🌱 Sempre estudando tecnologias modernas
+- 📱 Desenvolvedor focado em **Android (Kotlin)**  
+- 🌐 Experiência com **Django, HTML, CSS, JavaScript**  
+- 🐧 Usuário de **Linux e WSL2** no dia a dia de desenvolvimento  
+- ⚙️ Interesse em **redes, servidores, automação e hardware**  
+- 🎓 Estudante do **5° semestre de Análise e Desenvolvimento de Sistemas (IF Baiano)**  
+- 🛠 Monitor da disciplina de **Algoritmos**, criador de materiais didáticos em Portugol  
+- 🚗 Curto criar sistemas experimentais, projetos Maker e soluções práticas para o dia a dia  
 
 ---
 
 ## 🚀 Tecnologias
 
-### **Frontend**
+### **Mobile**
 <p>
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+</p>
+
+### **Web**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ### **Backend**
 <p>
-  <img src="https://img.shields.io/badge/Laravel-f55247?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-8993BE?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### **DevOps**
+### **Infra e Ferramentas**
 <p>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009137?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/WSL2-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-1A1A1A?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PFsense-D7262A?style=for-the-badge&logo=pfsense&logoColor=white"/>
 </p>
 
 ---
 
 ## ⭐ Projetos em destaque
 
-
+- 📚 **Sistema de Gerenciamento de Empréstimo de Livros** (Django)  
+- 🌱 **Gerenciador de Árvores e Arbustos** (Django + venv + Git)  
+- 🔥 **Visualizador Térmico MLX90640** com Python + Tkinter + OpenCV  
+- 🖥 Ambientes de rede completos no **VirtualBox (Pfsense, Servidor, Funcionário, Convidado)**  
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nevesfg&show_icons=true&theme=tokyonight"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevesfg&layout=compact&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CarlosManoelMC&show_icons=true&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosManoelMC&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -67,18 +77,15 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="#">
     <img src="https://img.shields.io/badge/Email-444?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Coding, learning, building — everyday."</i>
+  <i>"Criar, estudar e melhorar — todos os dias."</i>
 </p>
