@@ -1,47 +1,25 @@
 <!-- Banner topo -->
 <p align="center">
-  <img src="https://github.com/CarlosManoelMC/CarlosManoelMC/blob/main/BannerTamanho480.png" width="100%" />
+  <img src="https://github.com/CarlosManoelMC/CarlosManoelMC/blob/main/HelloWorlds.gif" width="100%" />
 </p>
+
 
 
 
 
 <h1 align="center">OI, EU SOU CARLOS MANOEL!</h1>
 
-<p align="center">
-  <b>Desenvolvedor Mobile • Web Developer • Formado em análise e desenvolvimento de sistemas • Video Maker</b><br/>
-  Construindo sistemas, criando experiências e sempre explorando novas tecnologias.
-</p>
-
 ---
 
-## Sobre mim
-
-- Desenvolvedor há 3 anos.
-- Usuário de **Linux** no dia a dia de desenvolvimento  
-- Formado em **Análise e Desenvolvimento de Sistemas (IF Baiano)**  
-- Monitor da disciplina de **Algoritmos**, criando um material didáticos em Portugol para ensinar algoritmo.   
-- Curto criar sistemas experimentais, projetos Maker e soluções práticas para o dia a dia  
-
----
-
-## Tecnologia
-
-### **Desenvolvimento**
+### **Tecnologias**
 <p>
   <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white"/>
-
-
-</p>
-<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
 
-### **Ferramentas**
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
