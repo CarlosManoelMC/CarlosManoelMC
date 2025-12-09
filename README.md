@@ -1,7 +1,9 @@
 <!-- Banner topo -->
 <p align="center">
-  <img src="https://png.pngtree.com/thumb_back/fw800/background/20250910/pngtree-abstract-technology-background-with-glowing-binary-code-flowing-across-dark-digital-image_19159106.webp" width="100%" />
+  <img src="https://github.com/CarlosManoelMC/CarlosManoelMC/blob/main/HelloWorldBannerMenor.png" width="100%" />
 </p>
+
+
 
 
 <h1 align="center">OI, EU SOU CARLOS MANOEL!</h1>
