@@ -1,6 +1,6 @@
 <!-- Banner topo -->
 <p align="center">
-  <img src="https://github.com/CarlosManoelMC/CarlosManoelMC/blob/main/HelloWorldBannerMenor.png" width="100%" />
+  <img src="https://github.com/CarlosManoelMC/CarlosManoelMC/blob/main/BannerTamanho480.png" width="100%" />
 </p>
 
 
@@ -9,7 +9,7 @@
 <h1 align="center">OI, EU SOU CARLOS MANOEL!</h1>
 
 <p align="center">
-  <b>Desenvolvedor Mobile • Web Developer • Formado em análise e desenvolvimento de sistemas • Maker</b><br/>
+  <b>Desenvolvedor Mobile • Web Developer • Formado em análise e desenvolvimento de sistemas • Video Maker</b><br/>
   Construindo sistemas, criando experiências e sempre explorando novas tecnologias.
 </p>
 
@@ -17,10 +17,8 @@
 
 ## Sobre mim
 
-- Desenvolvedor a 3 anos.
-- Experiência com **Django, HTML, CSS, JavaScript, C, Java, C++, Scratch, Docker**  
+- Desenvolvedor há 3 anos.
 - Usuário de **Linux** no dia a dia de desenvolvimento  
-- Interesse em **redes e automação**  
 - Formado em **Análise e Desenvolvimento de Sistemas (IF Baiano)**  
 - Monitor da disciplina de **Algoritmos**, criando um material didáticos em Portugol para ensinar algoritmo.   
 - Curto criar sistemas experimentais, projetos Maker e soluções práticas para o dia a dia  
@@ -53,17 +51,6 @@
   <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
-
-
----
-
-## Projetos em destaque
-
-- **Sistema de Gerenciamento de Empréstimo de Livros** (Django)  
-- **Gerenciador de Árvores e Arbustos** (Django + venv + Git)  
-- **Visualizador Térmico MLX90640** feito em C, sistema embarcado.
-- Sistema de processamento de imagem.
-- Ambientes de rede completos no **VirtualBox (Pfsense, Servidor, Funcionário, Convidado)**  
 
 ---
 
