@@ -6,7 +6,7 @@
 <h1 align="center">👋 OI, EU SOU CARLOS MANOEL!</h1>
 
 <p align="center">
-  <b>Desenvolvedor Mobile • Web Developer • Estudante de ADS • Maker</b><br/>
+  <b>Desenvolvedor Mobile • Web Developer • Formado em análise e desenvolvimento de sistemas • Maker</b><br/>
   Construindo sistemas, criando experiências e sempre explorando novas tecnologias.
 </p>
 
@@ -14,12 +14,12 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 📱 Desenvolvedor focado em **Android (Kotlin)**  
+- 📱 Desenvolvedor 
 - 🌐 Experiência com **Django, HTML, CSS, JavaScript**  
 - 🐧 Usuário de **Linux e WSL2** no dia a dia de desenvolvimento  
 - ⚙️ Interesse em **redes, servidores, automação e hardware**  
-- 🎓 Estudante do **5° semestre de Análise e Desenvolvimento de Sistemas (IF Baiano)**  
-- 🛠 Monitor da disciplina de **Algoritmos**, criador de materiais didáticos em Portugol  
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas (IF Baiano)**  
+- 🛠 Monitor da disciplina de **Algoritmos**, criador de materiais didáticos em Portugol para aprender algoritmo.   
 - 🚗 Curto criar sistemas experimentais, projetos Maker e soluções práticas para o dia a dia  
 
 ---
